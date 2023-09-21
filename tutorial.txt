@@ -1,0 +1,8 @@
+Vytvorenie projektu
+https://www.notjust.dev/blog/2023-02-17-3d-animations-in-react-native-with-threejs-nike-app
+
+Tutorial buildu na android
+https://www.youtube.com/watch?v=pb6OvvSi8Qk&ab_channel=BugNinza
+
+Build commman:
+eas build -p android --profile preview
